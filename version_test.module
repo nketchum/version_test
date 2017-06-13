@@ -16,7 +16,7 @@ function version_test_help($route_name, RouteMatchInterface $route_match) {
     case 'help.page.version_test':
       $output = '';
       $output .= '<h3>' . t('About') . '</h3>';
-      $output .= '<p>' . t('Test module and composer versions') . '</p>';
+      $output .= '<p>' . t('Test module and composer versions. Version 1.0.1.') . '</p>';
       return $output;
 
     default:
