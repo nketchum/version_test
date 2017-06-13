@@ -1,0 +1,5 @@
+name: Version test
+type: module
+description: Test module and composer versions
+core: 8.x
+package: Custom

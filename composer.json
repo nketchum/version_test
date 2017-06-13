@@ -1,0 +1,14 @@
+{
+  "name": "drupal/version_test",
+  "type": "drupal-module",
+  "description": "Test module and composer versions",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/version_test",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/version_test",
+    "source": "http://cgit.drupalcode.org/version_test"
+  },
+  "require": { }
+}
